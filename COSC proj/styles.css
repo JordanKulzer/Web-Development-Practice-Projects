@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(130, 161, 161);
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    color: white;
+}
+
+/*Navigation Bar*/
+
+.navbar-brand {
+    font-size: 2.5rem;
+    font-family: 'Playfair Display', serif;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+/*Pics*/
+
+#testimonials {
+    padding-top: 100px;
+    text-align: center;
+    margin: 20px;
+}
+
+.testimonial-img {
+    width: 60%;
+}
+
+.testimonial-text {
+    color: white;
+}
+
+.carousel-item {
+
+}
+
+/*Reservation*/
+.reservation {
+    background-color: white;
+    padding-top: 4rem;
+    padding-bottom: 6rem;
+}
+
+.res-heading {
+    color: rgb(130, 161, 161);
+    text-align: center;
+    padding: 4rem;
+}
+
+/*Contact*/
+
+.footer {
+    text-align: center;
+    padding: 4rem;
+}
+.contact-heading {
+    color: white;
+}
+
+.foot-img {
+    color: black;
+    width: 40%;
+    padding-bottom: 4rem;
+    padding-top: 2rem;
+}
+
